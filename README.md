@@ -1,10 +1,10 @@
 ### Hello, Hello!🖖
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 - 😄 Pronouns: She/ Her
-- 🔭 I’m currently working on Necto Systems 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api)
-- 🌱 I’m currently learning 
+- - 🌱 I’m currently learning AWS
+<!-- 
 - 💬 Ask me about
 - 📫 How to reach me: 
 - ⚡ Fun fact:-->
