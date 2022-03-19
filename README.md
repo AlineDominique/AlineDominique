@@ -3,7 +3,7 @@
 
 
 - 😄 Pronouns: She/ Her
-- - 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS
 <!-- 
 - 💬 Ask me about
 - 📫 How to reach me: 
