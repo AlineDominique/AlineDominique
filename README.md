@@ -10,7 +10,7 @@ I am a Software Engineer with over 6 years of experience building and maintainin
 
 ### 🛠 What I’m currently up to:
 - 🔭 **Currently working on:** Evolving backend architectures and optimizing complex SQL queries for long-term system stability.
-- 🌱 **Learning:** Rust for high-performance systems and AI Agents/Prompt Engineering (CI&T Bootcamp).
+- 🌱 **Learning:** AI Agents/Prompt Engineering.
 - 💬 **Ask me about:** Python/Django, automated testing (Pytest), Sentry monitoring, and legacy system evolution.
 - 🤖 **AI Interests:** Exploring LLMs, Agentic workflows, and the intersection between human creativity and machine intelligence.
 
