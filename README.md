@@ -31,13 +31,6 @@ I am a Software Engineer with over 6 years of experience building and maintainin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ---
 
-### 📈 GitHub Overview
-*Since I have been focusing on private corporate repositories, my public metrics are being updated as I explore new paths in AI and Rust.*
-
-- ⚡ **Testing Culture:** 100% committed to TDD and clean code.
-- 🚀 **Public Projects:** Currently building AI Agents and experimental tools.
-
----
 
 ### 🌿 Beyond the Terminal
 To keep the balance and my creativity flowing, I seek inspiration outside the screen:
