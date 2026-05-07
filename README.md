@@ -1,6 +1,6 @@
 # Hi there, I'm Aline Dominique! 👋
 
-### Backend Software Engineer | Python, Django & SQL Expert | AI Enthusiast
+### Backend Software Engineer | Python, Django & SQL Expert
 
 I am a Software Engineer with over 6 years of experience building and maintaining critical backend architectures. My expertise lies in Python, Django, and high-performance SQL, with a strong focus on code quality through rigorous automated testing and proactive monitoring.
 
